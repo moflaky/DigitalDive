@@ -2,7 +2,7 @@ export const exploreWorlds = [
   {
     id: 'world-1',
     imgUrl: '/planet-01.png',
-    title: 'The Hogwarts',
+    title: 'Hogwarts',
   },
   {
     id: 'world-2',
@@ -27,44 +27,44 @@ export const exploreWorlds = [
 ];
 
 export const startingFeatures = [
-  'Find a world that suits you and you want to enter',
-  'Enter the world by reading basmalah to be safe',
-  'No need to beat around the bush, just stay on the gas and have fun',
+  'Find a world that suits you and indulge in its beauty',
+  'Enter the world by first reading the rules and then joining the world',
+  'Explore the world and find out what you can do in it. The possibilities are endless',
 ];
 
 export const newFeatures = [
   {
     imgUrl: '/vrpano.svg',
-    title: 'A new world',
+    title: 'A New World',
     subtitle:
-        'we have the latest update with new world for you to try never mind',
+        'We have the latest update releasing with a new digiverse world for you to try out',
   },
   {
     imgUrl: '/headset.svg',
-    title: 'More realistic',
+    title: 'More Realistic',
     subtitle:
-        'In the latest update, your eyes are narrow, making the world more realistic than ever',
+        'In the latest update, we support higher pixel counts, making the world more realistic than ever',
   },
 ];
 
 export const insights = [
   {
     imgUrl: '/planet-06.png',
-    title: 'The launch of the Metaverse makes Elon musk ketar-ketir',
+    title: 'Digital Dive Leaves Elon Musk in Awe of the Virtual Universe',
     subtitle:
-        'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
+        'Experience the mind-bending journey of virtual exploration that left even Elon Musk speechless. Dive into the future with Digital Dive!',
   },
   {
     imgUrl: '/planet-07.png',
-    title: '7 tips to easily master the madness of the Metaverse',
+    title: '7 Pro Tips for Navigating the Exciting World of Digital Dive',
     subtitle:
-        'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
+        'Discover expert insights on how to conquer the immersive wonders of Digital Dive. Unleash your full potential in the virtual realm!',
   },
   {
     imgUrl: '/planet-08.png',
-    title: 'With one platform you can explore the whole world virtually',
+    title: 'Explore the Entire World from the Comfort of Digital Dive',
     subtitle:
-        'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
+        'Uncover the magic of global exploration right from your fingertips. Join us on a virtual journey like never before with Digital Dive!',
   },
 ];
 

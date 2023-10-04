@@ -17,7 +17,7 @@ const Hero = () => (
     >
       <div className='flex justify-center items-center flex-col relative z-10'>
         <motion.h1 variants={textVariant(1.1)} className={styles.heroHeading}>
-          Metaverse
+          Digiverse
         </motion.h1>
         <motion.div variants={textVariant(1.2)} className='flex flex-row items-center justify-center'>
           <h1 className={styles.heroHeading}>MA</h1>
@@ -33,15 +33,15 @@ const Hero = () => (
             <img 
             src='/cover.png' alt='cover' className='w-full sm:h-[500px] h-[350px] object-cover rounded-tl-[140px] z-10 relative' 
             />
-            <a href='#explore'>
-              <div className='w-full flex justify-end sm:-mt-[70px] -mt-[50px] pr-[40px] relative z-10'>
+            <div className='w-full flex justify-end sm:-mt-[70px] -mt-[50px] pr-[40px] relative z-10'>
+              <a href='#explore'>
                 <img
                   src='/stamp.png'
                   alt='stamp'
                   className='sm:w-[150px] w-[100px] object-contain] sm:h-[155px] h-[100px]'
                 />
-              </div>
-            </a>
+              </a>
+            </div>
       </motion.div>
     </motion.div>
   </section>
