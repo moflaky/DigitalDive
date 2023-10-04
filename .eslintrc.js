@@ -36,6 +36,12 @@ module.exports = {
     'react/react-in-jsx-scope': 'off',
     'react/jsx-props-no-spreading': 'off',
     'jsx-a11y/no-noninteractive-element-interactions': 'off',
+    'jsx-quotes' : 'off',
+    'object-curly-spacing' : 'off',
+    'no-trailing-spaces' : 'off',
+    'react/jsx-equals-spacing' : 'off',
+    'react/jsx-tag-spacing' : 'off',
+    'react/jsx-indent' : 'off',
     'react/function-component-definition': [
       2,
       {
